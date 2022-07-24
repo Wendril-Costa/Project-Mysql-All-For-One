@@ -1,2 +1,1 @@
-SELECT id FROM products
-ORDER BY id;
+SELECT id FROM products;
